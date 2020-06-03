@@ -1,0 +1,7 @@
+com\rithikarao\customer\config\JpaConfig.class
+com\rithikarao\customer\config\WebMvcConfig.class
+com\rithikarao\customer\CustomerController.class
+com\rithikarao\customer\Customer.class
+com\rithikarao\customer\config\WebAppInitializer.class
+com\rithikarao\customer\CustomerRepository.class
+com\rithikarao\customer\CustomerService.class
